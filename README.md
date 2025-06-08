@@ -4,14 +4,11 @@ I’m a Computer Engineering student with a strong interest in process automatio
 
 
 ## 🚀 Technologies & Tools
-- 🐍 Python | 🐧 Linux | 🐳 Docker | 🔧 Bash | 🌐 HTML/CSS
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📈 GitHub Stats
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanOntiv&show_icons=true&theme=github_dark)
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/JuanOntiv)
-Solo reemplaza juan-dev por tu nombre de usuario real en GitHub.
 
 
 <!--
