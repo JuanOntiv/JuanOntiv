@@ -6,6 +6,14 @@ I’m a Computer Engineering student with a strong interest in process automatio
 ## 🚀 Technologies & Tools
 - 🐍 Python | 🐧 Linux | 🐳 Docker | 🔧 Bash | 🌐 HTML/CSS
 
+## 📈 GitHub Stats
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanOntiv&show_icons=true&theme=github_dark)
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/JuanOntiv)
+Solo reemplaza juan-dev por tu nombre de usuario real en GitHub.
+
+
 <!--
 **JuanOntiv/JuanOntiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
