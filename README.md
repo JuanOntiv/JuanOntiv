@@ -1,8 +1,10 @@
-### Hi there 👋
-
-## Hi there 👋
-
 # Hi there 👋
+
+I’m a Computer Engineering student with a strong interest in process automation, software testing, and systems administration. I enjoy solving problems using tools like Python, Bash, and Git, and I’m currently exploring technologies such as Docker, Jenkins, and Ansible to optimize development and deployment workflows.
+
+
+## 🚀 Technologies & Tools
+- 🐍 Python | 🐧 Linux | 🐳 Docker | 🔧 Bash | 🌐 HTML/CSS
 
 <!--
 **JuanOntiv/JuanOntiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
