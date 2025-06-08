@@ -1,4 +1,4 @@
-# Hi there 👋
+#   Hi, I'm Juan Pablo 👋
 
 I’m a Computer Engineering student with a strong interest in process automation, software testing, and systems administration. I enjoy solving problems using tools like Python, Bash, and Git, and I’m currently exploring technologies such as Docker, Jenkins, and Ansible to optimize development and deployment workflows.
 
